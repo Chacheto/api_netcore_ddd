@@ -1,0 +1,9 @@
+C:\Chacheto\udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Chacheto\udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Chacheto\udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Chacheto\udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Chacheto\udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Chacheto\udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Chacheto\udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Chacheto\udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Chacheto\udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
